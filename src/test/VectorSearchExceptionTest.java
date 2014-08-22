@@ -7,9 +7,7 @@ import org.junit.rules.ExpectedException;
 
 import java.security.InvalidParameterException;
 
-/**
- * Created by xichen on 8/10/14.
- */
+
 public class VectorSearchExceptionTest {
     @Rule
     public ExpectedException expectedException = ExpectedException.none();

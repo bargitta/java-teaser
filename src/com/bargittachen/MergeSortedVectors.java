@@ -1,7 +1,6 @@
 package com.bargittachen;
 
 /**
- * Created by xichen on 8/12/14.
  * 两个排序数组，A1，A2，A1的末尾又足够的空间容纳A2，实现一个函数，将A2中的所有元素插入到A1，并且所有的元素是排序的
  */
 public class MergeSortedVectors {

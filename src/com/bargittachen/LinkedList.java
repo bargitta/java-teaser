@@ -3,9 +3,6 @@ package com.bargittachen;
 import java.util.Stack;
 import java.util.concurrent.atomic.AtomicReference;
 
-/**
- * Created by xichen on 8/12/14.
- */
 public class LinkedList {
 
     //在链表尾部添加一个节点

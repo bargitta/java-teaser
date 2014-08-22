@@ -3,7 +3,6 @@ package com.bargittachen;
 import java.security.InvalidParameterException;
 
 /**
- * Created by xichen on 8/10/14.
  * 查找二维整数数组种是否包含某一个整数
  * 数组从左至右递增，从上至下递增
  * {{2, 7, 8, 20},{4, 13, 17, 40},{5, 14, 19, 60},{6, 15, 30, 100}}

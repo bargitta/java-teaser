@@ -2,9 +2,7 @@ package test;
 import com.bargittachen.MergeSortedVectors;
 import org.junit.Assert;
 import org.junit.Test;
-/**
- * Created by xichen on 8/12/14.
- */
+
 public class MergeSortedVectorTest {
     @Test
     public void merge_vectors_with_valid_input(){
