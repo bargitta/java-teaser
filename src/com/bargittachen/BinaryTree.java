@@ -34,7 +34,6 @@ public class BinaryTree {
             head.leftChild = null;
         }else {
             head.leftChild = createTree(preorder, leftPreStartIndex, leftPreEndIndex, inorder, leftInStartIndex, leftInEndIndex);
-
         }
         if(rightPreStartIndex > rightPreEndIndex){
             head.rightChild = null;
