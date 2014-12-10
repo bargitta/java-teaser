@@ -4,7 +4,7 @@ import com.bargittachen.com.bargittachen.sort.QuickSort;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-
+//test for quick sort
 public class QuickSortTest {
 
     @Test
